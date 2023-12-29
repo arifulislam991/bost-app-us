@@ -1,0 +1,31 @@
+.my-btn{
+    color: #fff;
+    background-color: #F79F1F;
+    border-radius: 5px;
+    padding: 10px 25px;
+    text-decoration: none;
+}
+.my-btn :hover{
+    background: #EE5A24;
+    color: #fff;
+}
+.btn-info{
+    background: #ef5777;
+    border-color: #ef5777;
+    color: #fff;
+}
+.btn-info :hover{
+    background: #f53b57 !important;
+    color: #fff !important;
+    border-color: #f53b57 !important;
+}
+.my-table{
+    padding: 50px 0 ;
+}
+.my-form{
+    margin: 50px auto;
+    width: 50%;
+}
+img{
+    max-width: 100%;
+}
